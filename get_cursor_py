@@ -1,0 +1,10 @@
+import pyautogui
+print(pyautogui.position())
+
+
+while True:
+    a = pyautogui.position()
+    print(a)
+    1180, 1047
+    896, 265
+    1897, 1003
